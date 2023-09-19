@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<hdml lang "fr">
+   <head>
+   <meta charset="UTF-8">
+
+
+   <title>acha boco </title>
+
+   </head>
+   <body>
+     <header>
+      <nav>
+       <ul>
+      <li id="logo "><a href="#"clos marsault ></a></li>
+      <li><a href="#langue">langue</a></li>
+      <li><a href="#reserver">reserver</a></li>
+      <li><a href="#nou contacter">nous contacter</a></li>
+       
+
+
+
+
+
+       </ul>
+
+
+
+
+      </nav>
+
+
+
+
+
+     </header>
+    
+     <footer>
+
+     </footer>
+
+
+
+
+
+
+
+  
+
+     
+</body>
+
+</hdml>
